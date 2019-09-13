@@ -1,0 +1,15 @@
+2019-09-13 11:21:39.074  INFO 10692 --- [restartedMain] c.ashu.boot.SpringBootToolsApplication   : Starting SpringBootToolsApplication on Ashu with PID 10692 (C:\Users\ENOABANE\Documents\workspace-spring-tool-suite-4-4.0.2.RELEASE\spring-boot-tools\target\classes started by ENOABANE in C:\Users\ENOABANE\Documents\workspace-spring-tool-suite-4-4.0.2.RELEASE\spring-boot-tools)
+2019-09-13 11:21:39.079  INFO 10692 --- [restartedMain] c.ashu.boot.SpringBootToolsApplication   : The following profiles are active: prod
+2019-09-13 11:21:39.164  INFO 10692 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-13 11:21:39.169  INFO 10692 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-13 11:21:40.570  INFO 10692 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-09-13 11:21:40.598  INFO 10692 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-13 11:21:40.598  INFO 10692 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-13 11:21:40.700  INFO 10692 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-13 11:21:40.705  INFO 10692 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1536 ms
+2019-09-13 11:21:40.975  INFO 10692 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-13 11:21:41.182  INFO 10692 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-13 11:21:41.242  INFO 10692 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-13 11:21:41.247  INFO 10692 --- [restartedMain] c.ashu.boot.SpringBootToolsApplication   : Started SpringBootToolsApplication in 2.82 seconds (JVM running for 3.921)
+2019-09-13 11:23:37.905  INFO 10692 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-09-13 11:23:37.905  INFO 10692 --- [RMI TCP Connection(9)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,14 @@
+2019-09-13 11:12:50.144  INFO 6608 --- [restartedMain] c.ashu.boot.SpringBootToolsApplication   : Starting SpringBootToolsApplication on Ashu with PID 6608 (C:\Users\ENOABANE\Documents\workspace-spring-tool-suite-4-4.0.2.RELEASE\spring-boot-tools\target\classes started by ENOABANE in C:\Users\ENOABANE\Documents\workspace-spring-tool-suite-4-4.0.2.RELEASE\spring-boot-tools)
+2019-09-13 11:12:50.149  INFO 6608 --- [restartedMain] c.ashu.boot.SpringBootToolsApplication   : No active profile set, falling back to default profiles: default
+2019-09-13 11:12:50.221  INFO 6608 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-13 11:12:50.267  INFO 6608 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-13 11:12:51.829  INFO 6608 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-09-13 11:12:51.866  INFO 6608 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-13 11:12:51.866  INFO 6608 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-13 11:12:51.987  INFO 6608 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-13 11:12:51.992  INFO 6608 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1725 ms
+2019-09-13 11:12:52.316  INFO 6608 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-13 11:12:52.617  INFO 6608 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-13 11:12:52.682  INFO 6608 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-13 11:12:52.687  INFO 6608 --- [restartedMain] c.ashu.boot.SpringBootToolsApplication   : Started SpringBootToolsApplication in 3.116 seconds (JVM running for 4.224)
+2019-09-13 11:14:41.731  INFO 6608 --- [Thread-7] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
